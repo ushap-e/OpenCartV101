@@ -1,0 +1,138 @@
+2024-12-22 17:14:35 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\grid-docker.xml"
+2024-12-22 17:14:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\grid-docker.xml
+
+2024-12-22 17:14:42 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest ****
+2024-12-22 17:14:42 INFO  TC_002_LoginTest:21 - Clicked on MyAccount link in HomePage
+2024-12-22 17:14:43 INFO  TC_002_LoginTest:23 - Clicked on Login link under MyAccount
+2024-12-22 17:14:43 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2024-12-22 17:14:47 INFO  TC_002_LoginTest:33 - clicked on ligin button..
+2024-12-22 17:14:47 INFO  TC_002_LoginTest:38 - Test Passed
+2024-12-22 17:14:47 INFO  TC_002_LoginTest:47 - **** Finished TC_002_LoginTest ****
+2024-12-22 17:17:57 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest ****
+2024-12-22 17:17:57 INFO  TC_002_LoginTest:21 - Clicked on MyAccount link in HomePage
+2024-12-22 17:17:58 INFO  TC_002_LoginTest:23 - Clicked on Login link under MyAccount
+2024-12-22 17:17:58 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2024-12-22 17:18:02 INFO  TC_002_LoginTest:33 - clicked on ligin button..
+2024-12-22 17:18:02 INFO  TC_002_LoginTest:38 - Test Passed
+2024-12-22 17:18:02 INFO  TC_002_LoginTest:47 - **** Finished TC_002_LoginTest ****
+2024-12-22 17:19:32 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\grid-docker.xml"
+2024-12-22 17:19:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\grid-docker.xml
+
+2024-12-22 17:19:53 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest ****
+2024-12-22 17:19:54 INFO  TC_002_LoginTest:21 - Clicked on MyAccount link in HomePage
+2024-12-22 17:19:54 INFO  TC_002_LoginTest:23 - Clicked on Login link under MyAccount
+2024-12-22 17:19:54 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2024-12-22 17:19:59 INFO  TC_002_LoginTest:33 - clicked on ligin button..
+2024-12-22 17:19:59 INFO  TC_002_LoginTest:38 - Test Passed
+2024-12-22 17:19:59 INFO  TC_002_LoginTest:47 - **** Finished TC_002_LoginTest ****
+2024-12-22 17:24:31 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\grid-docker.xml"
+2024-12-22 17:24:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\grid-docker.xml
+
+2024-12-22 17:25:23 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest ****
+2024-12-22 17:25:23 INFO  TC_002_LoginTest:21 - Clicked on MyAccount link in HomePage
+2024-12-22 17:25:24 INFO  TC_002_LoginTest:23 - Clicked on Login link under MyAccount
+2024-12-22 17:25:24 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2024-12-22 17:25:28 INFO  TC_002_LoginTest:33 - clicked on ligin button..
+2024-12-22 17:25:28 INFO  TC_002_LoginTest:38 - Test Passed
+2024-12-22 17:25:28 INFO  TC_002_LoginTest:47 - **** Finished TC_002_LoginTest ****
+2024-12-22 17:26:20 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\grid-docker.xml"
+2024-12-22 17:26:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\grid-docker.xml
+
+2024-12-22 17:29:28 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest ****
+2024-12-22 17:29:29 INFO  TC_002_LoginTest:21 - Clicked on MyAccount link in HomePage
+2024-12-22 17:29:29 INFO  TC_002_LoginTest:23 - Clicked on Login link under MyAccount
+2024-12-22 17:29:29 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2024-12-22 17:29:33 INFO  TC_002_LoginTest:33 - clicked on ligin button..
+2024-12-22 17:29:33 INFO  TC_002_LoginTest:38 - Test Passed
+2024-12-22 17:29:33 INFO  TC_002_LoginTest:47 - **** Finished TC_002_LoginTest ****
+2024-12-22 17:30:48 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\master.xml"
+2024-12-22 17:30:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\master.xml
+
+2024-12-22 17:33:33 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\master.xml"
+2024-12-22 17:33:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\master.xml
+
+2024-12-22 17:36:36 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\grid-docker.xml"
+2024-12-22 17:36:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\grid-docker.xml
+
+2024-12-22 17:36:39 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest ****
+2024-12-22 17:36:39 INFO  TC_002_LoginTest:21 - Clicked on MyAccount link in HomePage
+2024-12-22 17:36:40 INFO  TC_002_LoginTest:23 - Clicked on Login link under MyAccount
+2024-12-22 17:36:40 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2024-12-22 17:36:44 INFO  TC_002_LoginTest:33 - clicked on ligin button..
+2024-12-22 17:36:44 INFO  TC_002_LoginTest:38 - Test Passed
+2024-12-22 17:36:44 INFO  TC_002_LoginTest:47 - **** Finished TC_002_LoginTest ****
+2024-12-22 17:37:26 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\grid-docker.xml"
+2024-12-22 17:37:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\grid-docker.xml
+
+2024-12-22 17:38:00 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest ****
+2024-12-22 17:38:01 INFO  TC_002_LoginTest:21 - Clicked on MyAccount link in HomePage
+2024-12-22 17:38:01 INFO  TC_002_LoginTest:23 - Clicked on Login link under MyAccount
+2024-12-22 17:38:01 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2024-12-22 17:38:06 INFO  TC_002_LoginTest:33 - clicked on ligin button..
+2024-12-22 17:38:06 INFO  TC_002_LoginTest:38 - Test Passed
+2024-12-22 17:38:06 INFO  TC_002_LoginTest:47 - **** Finished TC_002_LoginTest ****
+2024-12-22 17:41:33 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\master.xml"
+2024-12-22 17:41:34 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\master.xml
+
+2024-12-22 17:41:40 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest ****
+2024-12-22 17:41:40 INFO  TC_002_LoginTest:21 - Clicked on MyAccount link in HomePage
+2024-12-22 17:41:41 INFO  TC_002_LoginTest:23 - Clicked on Login link under MyAccount
+2024-12-22 17:41:41 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2024-12-22 17:41:45 INFO  TC_002_LoginTest:33 - clicked on ligin button..
+2024-12-22 17:41:45 INFO  TC_002_LoginTest:38 - Test Passed
+2024-12-22 17:41:45 INFO  TC_002_LoginTest:47 - **** Finished TC_002_LoginTest ****
+2024-12-22 17:43:30 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest ****
+2024-12-22 17:43:30 INFO  TC_002_LoginTest:21 - Clicked on MyAccount link in HomePage
+2024-12-22 17:43:30 INFO  TC_002_LoginTest:23 - Clicked on Login link under MyAccount
+2024-12-22 17:43:30 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2024-12-22 17:43:34 INFO  TC_002_LoginTest:33 - clicked on ligin button..
+2024-12-22 17:43:35 INFO  TC_002_LoginTest:38 - Test Passed
+2024-12-22 17:43:35 INFO  TC_002_LoginTest:47 - **** Finished TC_002_LoginTest ****
+2024-12-22 17:55:35 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\grid-docker.xml"
+2024-12-22 17:55:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\grid-docker.xml
+
+2024-12-22 17:55:41 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest ****
+2024-12-22 17:55:41 INFO  TC_002_LoginTest:21 - Clicked on MyAccount link in HomePage
+2024-12-22 17:55:42 INFO  TC_002_LoginTest:23 - Clicked on Login link under MyAccount
+2024-12-22 17:55:42 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2024-12-22 17:55:46 INFO  TC_002_LoginTest:33 - clicked on ligin button..
+2024-12-22 17:55:46 INFO  TC_002_LoginTest:38 - Test Passed
+2024-12-22 17:55:46 INFO  TC_002_LoginTest:47 - **** Finished TC_002_LoginTest ****
+2024-12-22 17:55:55 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest ****
+2024-12-22 17:55:55 INFO  TC_002_LoginTest:21 - Clicked on MyAccount link in HomePage
+2024-12-22 17:55:56 INFO  TC_002_LoginTest:23 - Clicked on Login link under MyAccount
+2024-12-22 17:55:56 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2024-12-22 17:56:00 INFO  TC_002_LoginTest:33 - clicked on ligin button..
+2024-12-22 17:56:00 INFO  TC_002_LoginTest:38 - Test Passed
+2024-12-22 17:56:00 INFO  TC_002_LoginTest:47 - **** Finished TC_002_LoginTest ****
+2024-12-22 17:56:29 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\docker-compose.yaml"
+2024-12-22 17:57:03 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\grid-docker.xml"
+2024-12-22 17:57:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\grid-docker.xml
+
+2024-12-22 17:57:11 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest ****
+2024-12-22 17:57:11 INFO  TC_002_LoginTest:21 - Clicked on MyAccount link in HomePage
+2024-12-22 17:57:12 INFO  TC_002_LoginTest:23 - Clicked on Login link under MyAccount
+2024-12-22 17:57:12 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2024-12-22 17:57:16 INFO  TC_002_LoginTest:33 - clicked on ligin button..
+2024-12-22 17:57:16 INFO  TC_002_LoginTest:38 - Test Passed
+2024-12-22 17:57:16 INFO  TC_002_LoginTest:47 - **** Finished TC_002_LoginTest ****
+2024-12-22 17:57:26 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest ****
+2024-12-22 17:57:27 INFO  TC_002_LoginTest:21 - Clicked on MyAccount link in HomePage
+2024-12-22 17:57:27 INFO  TC_002_LoginTest:23 - Clicked on Login link under MyAccount
+2024-12-22 17:57:27 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2024-12-22 17:57:31 INFO  TC_002_LoginTest:33 - clicked on ligin button..
+2024-12-22 17:57:31 INFO  TC_002_LoginTest:38 - Test Passed
+2024-12-22 17:57:31 INFO  TC_002_LoginTest:47 - **** Finished TC_002_LoginTest ****
+2024-12-22 18:17:07 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\master.xml"
+2024-12-22 18:56:08 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Dell Latitude 3410\Desktop\IDE Workspace\OpenCartV101\master.xml"
